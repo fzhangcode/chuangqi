@@ -32,9 +32,9 @@ url_video: ""
 
 My recent completed projects and in review manuscripts of using deep learning and marchine learning in biomedical imaging [with Dr. Kwonmoo Lee](http://labs.wpi.edu/qci/announcement/) (now at Boston Children's Hospital):
 
-1.	**C. Wang**, H., Choi, K. Lee. Fine-grained deconvolution of subcellular protrusion heterogeneity by deep feature learning, In Preparation, 2021. 
+1.	C. Wang, H., Choi, K. Lee. Fine-grained deconvolution of subcellular protrusion heterogeneity by deep feature learning, In Preparation, 2021. 
 
-2.	K. Vaidyanathan*, **C. Wang***, Y. Yu, A. Krajnik, M. Choi, B. Lin, J. Kolega, K. Lee#, Y. Bae#, Machine learning approach reveals heterogeneous responses to FAK and Rho GTPases inhibition on smooth muscle spheroid formation,(In review) bioRxiv 927616, 2020.
+2.	K. Vaidyanathan*, C. Wang*, Y. Yu, A. Krajnik, M. Choi, B. Lin, J. Kolega, K. Lee#, Y. Bae#, Machine learning approach reveals heterogeneous responses to FAK and Rho GTPases inhibition on smooth muscle spheroid formation,(In review) bioRxiv 927616, 2020.
 
 3.	H. Choi, C. Wang, X. Pan, M. Cao, J. Brazzo , Y. Bae, K. Lee, Emerging machine learning approaches to phenotyping temporally heterogeneous cellular processes, In review, 2020.
 
