@@ -32,8 +32,7 @@ publication_short: In *ICW*
 abstract: Cell protrusion is morphodynamically heterogeneous at the subcellular level. However, the mechanism of cell protrusion has been understood based on the ensemble average of actin regulator dynamics. Here, we establish a computational framework called HACKS (deconvolution of heterogeneous activity in coordination of cytoskeleton at the subcellular level) to deconvolve the subcellular heterogeneity of lamellipodial protrusion from live cell imaging. HACKS identifies distinct subcellular protrusion phenotypes based on machine-learning algorithms and reveals their underlying actin regulator dynamics at the leading edge. Using our method, we discover “accelerating protrusion”, which is driven by the temporally ordered coordination of Arp2/3 and VASP activities. We validate our finding by pharmacological perturbations and further identify the fine regulation of Arp2/3 and VASP recruitment associated with accelerating protrusion. Our study suggests HACKS can identify specific subcellular protrusion phenotypes susceptible to pharmacological perturbation and reveal how actin regulator dynamics are changed by the perturbation.
 
 # Summary. An optional shortened abstract.
-summary: We establish a computational framework called HACKS (deconvolution of heterogeneous activity in coordination of cytoskeleton at the subcellular level) to
-deconvolve the subcellular heterogeneity of lamellipodial protrusion from live cell imaging.
+summary: We establish a computational framework called HACKS (deconvolution of heterogeneous activity in coordination of cytoskeleton at the subcellular level) to deconvolve the subcellular heterogeneity of lamellipodial protrusion from live cell imaging.
 
 tags: []
 
