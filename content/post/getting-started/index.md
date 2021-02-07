@@ -3,7 +3,9 @@ title: Welcome to Chuangqi's webpage
 subtitle: Welcome 👋 
 
 # Summary for listings and search engines
-summary: Welcome 👋 Weto my first post!# Link this post with a project
+summary: Welcome 👋 Weto my first post
+
+# Link this post with a project
 projects: []
 
 # Date published
@@ -21,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unuangqi at Rockport, MA](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Rockport, MA'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -41,13 +43,11 @@ categories:
 
 ## Overview
 
-
-
-lcome to my first post! I am a reseracher interested using advanced machine learning and deep learning to solve prolems in infectious diseases using system biology and immunology. I will record my publications and recent reserach projects here. In my spare time, I like outdoor activities with my family and friends!
+Welcome to my first post! I am a reseracher interested using advanced machine learning and deep learning to solve prolems in infectious diseases using system biology and immunology. I will record my publications and recent reserach projects here. In my spare time, I like outdoor activities with my family and friends!
 
 ##
- L# cense
+License
 
-Co# pyright 2016-present [George Cushen](https://georgecushen.com).
+pyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
