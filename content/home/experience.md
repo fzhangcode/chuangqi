@@ -28,7 +28,7 @@ experience:
     location: Worcester
     date_start: '2014-09-09'
     date_end: '2015-07-07'
-    description: Deep learning in genomics
+    description: Lab of clinical genomics 
   
   - title: Research Associate
     company: Chinese Academy of Sciences
@@ -36,12 +36,8 @@ experience:
     location: Shenzhen
     date_start: '2012-09-09'
     date_end: '2013-07-07'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Center for Biomimetic Systems 
+
         
   - title: Research Associate
     company: Peking University
@@ -49,5 +45,5 @@ experience:
     location: Beijing
     date_start: '2009-09-09'
     date_end: '2012-07-07'
-    description: Open Lab on human robot interaction.
+    description: Open Lab on human robot interaction
 ---

@@ -2,7 +2,7 @@
 title: Quantitative cellular imaging
 summary: Completed projects (with Dr. Kwonmoo Lee)
 tags:
-- Systems biology
+- Imaging
 date: "2020-06-06T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
