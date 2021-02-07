@@ -1,28 +1,28 @@
 ---
-title: CROI2021 Science Spotlight presentation
+title: Single Cell Biology Keystone Symposium Oral Talk
 
-event: CROI 2021
-event_url: https://www.croiconference.org/
+event: Keystone Symposium 2019
+# event_url: https://www.croiconference.org/
 
 # location: Wowchemy HQ
 # address:
 #  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
+  city: Keystone
+  region: Colorado
 #  postcode: '94305'
-#  country: United States
+  country: United States
 
-summary: Tissue Landscape of HIV antibody neutralization susceptibility, has been accepted for a Science Spotlight™ presentation.
-abstract: "Antoine Chaillon, **Chuangqi Wang**, Timothy Schlub, Wen-Han Yu, Douglas A. Lauffenburger, Davey M. Smith, Boris Juegl. Tissue Landscape of HIV antibody neutralization susceptibility (ID 1978) has been accepted for a Science Spotlight™ presentation at CROI 2021."
+summary: Deconvolution of subcellular protrusion heterogeneity and the underlying actin regulator dynamics from live cell imaging.
+abstract: "**Chuangqi Wang**, et al. Deconvolution of subcellular protrusion heterogeneity and the underlying actin regulator dynamics from live cell imaging, oral talk, Single Cell Biology Keystone Symposium, Colorado, Jan 2019"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-02-01T13:00:00Z"
-date_end: "2021-03-06T15:00:00Z"
+date: "2019-01-03T13:00:00Z"
+date_end: "2019-01-04T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-03-10T00:00:00Z"
+publishDate: "2019-01-03T00:00:00Z"
 
 authors: []
 tags: []
@@ -57,5 +57,5 @@ url_video: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- Systems biology
+- Imaging
 ---
