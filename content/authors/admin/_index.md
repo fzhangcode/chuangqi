@@ -14,7 +14,7 @@ organizations:
   url: https://be.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational modeling for cell imaging, system biology nad immunology in infectious disease
+bio: My research interests include computational modeling for cell imaging, systems biology and immunology in infectious diseases.
 
 # Interests to show in About widget
 interests:
@@ -73,7 +73,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoc associate working in [Dr. Douglas A. Lauffenburger lab](https://be.mit.edu/directory/douglas-a-lauffenburger) (2019 fall-Present) at MIT. My reserach interests lie in developing computational and statistical methods to reveal hidden mechanisms in heterogeneous patient samples using genetics, genomics, and imaging. My current research projects are about applying machine learning methods in pathogen genome sequences and single-cell transcriptomics to identify pathogenic features that could best predict the survival state of individuals with infectious diseases (such as tuberculosis, HIV and Ebola).
+I am a postdoc associate working in [Dr. Douglas A. Lauffenburger lab](https://be.mit.edu/directory/douglas-a-lauffenburger) (2019 fall-Present) at MIT. My reserach interests lie in developing machine learning and deep learning methods to reveal hidden mechanisms in patient samples using systems biology and quantitative imaging. My current research projects are about applying computatinal methods in pathogen genome sequences to identify pathogenic features that could best predict the survival state of individuals with infectious diseases (such as tuberculosis, HIV and Ebola).
 
 I have been collaborating with [Dr. Galit Alter](https://www.ragoninstitute.org/portfolio-item/alter-lab/) (Ragon Institute of MGH, MIT and Harvard) on using Systems Serology to identify immune mechanisms that result in these disparate clinical phenotypes in children could provide critical insights into COVID-19 pathogenesis, for example Multisystem Inflammatory Syndrome in Children (MIS-C).
 

@@ -198,7 +198,7 @@ plugins_js  = []
   #   4: Citation (publications only)
   post_view = 2
   publication_view = 2
-  talk_view = 2
+  talk_view = 1
 
 # Breadcrumb navigation
 [breadcrumb]
