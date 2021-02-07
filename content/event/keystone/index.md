@@ -5,7 +5,7 @@ event: Keystone Symposium 2019
 # event_url: https://www.croiconference.org/
 
 # location: Wowchemy HQ
-# address:
+address:
 #  street: 450 Serra Mall
   city: Keystone
   region: Colorado
