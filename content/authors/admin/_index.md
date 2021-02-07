@@ -6,7 +6,7 @@ title: Chuangqi Wang
 superuser: true
 
 # Role/position/tagline
-role: Postdoc Associated at System Biology 
+role: Postdoc Associate at Biological Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,11 +18,11 @@ bio: My research interests include computational modeling for cell imaging, syst
 
 # Interests to show in About widget
 interests:
-- Computational modeling
-- Deep learning
-- Cell imaging
-- System biology
-- Infectious disease
+- System biology in infectious disease
+- Quantitative cell imaging
+- Deep learning and optimization
+- Temporal data modeling
+
 
 
 # Education to show in About widget
@@ -73,8 +73,10 @@ email: ""
 highlight_name: false
 ---
 
+Website under-development...
+
 I am a postdoc associate working in [Dr. Douglas A. Lauffenburger lab](https://be.mit.edu/directory/douglas-a-lauffenburger) (2019 fall-Present). My reserach interests lie in developing computational and statistical methods to reveal hidden mechanisms in heterogeneous patient samples using genetics, genomics, and imaging. My current research projects are about applying machine learning methods in pathogen genome sequences and single-cell transcriptomics to identify pathogenic features that could best predict the survival state of individuals with infectious diseases (such as tuberculosis, HIV and Ebola).
 
 During my PhD, I worked with [Dr. Kwonmoo Lee](http://labs.wpi.edu/qci/announcement/) (now at Boston Children's Hospital) on developing deep learning models for quantitative cellular imaging.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
