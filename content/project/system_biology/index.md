@@ -1,6 +1,6 @@
 ---
 title: Systems biology in infectious disease
-summary: Ongoing projects
+summary: Recent projects (with Dr. Douglas A. Lauffenburger and Dr. Galit Alter)
 tags:
 - Systems biology
 date: "2021-01-01T00:00:00Z"
@@ -30,7 +30,8 @@ url_video: ""
 # slides: example
 ---
 
-My recent completed and ongoing projects in infectious diseases:
+My recent completed and ongoing projects in infectious diseases collobarating with [Dr. Galit Alter](https://www.ragoninstitute.org/portfolio-item/alter-lab/) and [Dr. Douglas A. Lauffenburger](https://be.mit.edu/directory/douglas-a-lauffenburger):
+
 
 1.	Y. C Bartsch*, C. Wang*, S. Fischinger, C. Atyeo, T. Zohar, J. Burke, A. G Edlow, A. Fasano, A. Schmidt, E. S Fischer, E. J Nilles, L. R Baden, E. Wood Karlson, D. A Lauffenburger, Lael M Yonker# and G. Alter#, Humoral signatures of protective and pathological SARS-CoV2 infection in children, Nature Medicine, In press, 2021.
 

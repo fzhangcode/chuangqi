@@ -1,6 +1,6 @@
 ---
 title: Quantitative cellular imaging
-summary: Recent projects
+summary: Completed projects (with Dr. Kwonmoo Lee)
 tags:
 - Systems biology
 date: "2020-06-06T00:00:00Z"
@@ -30,7 +30,7 @@ url_video: ""
 # slides: example
 ---
 
-My recent completed and ongoing projects of using deep learning and marchine learning in biomedical imaging:
+My recent completed projects and in review manuscripts of using deep learning and marchine learning in biomedical imaging [with Dr. Kwonmoo Lee](http://labs.wpi.edu/qci/announcement/) (now at Boston Children's Hospital):
 
 1.	**C. Wang**, H., Choi, K. Lee. Fine-grained deconvolution of subcellular protrusion heterogeneity by deep feature learning, In Preparation, 2021. 
 

@@ -73,10 +73,11 @@ email: ""
 highlight_name: false
 ---
 
-Website under-development...
-
 I am a postdoc associate working in [Dr. Douglas A. Lauffenburger lab](https://be.mit.edu/directory/douglas-a-lauffenburger) (2019 fall-Present). My reserach interests lie in developing computational and statistical methods to reveal hidden mechanisms in heterogeneous patient samples using genetics, genomics, and imaging. My current research projects are about applying machine learning methods in pathogen genome sequences and single-cell transcriptomics to identify pathogenic features that could best predict the survival state of individuals with infectious diseases (such as tuberculosis, HIV and Ebola).
 
-During my PhD, I worked with [Dr. Kwonmoo Lee](http://labs.wpi.edu/qci/announcement/) (now at Boston Children's Hospital) on developing deep learning models for quantitative cellular imaging.
+I have been collaborating with [Dr. Galit Alter](https://www.ragoninstitute.org/portfolio-item/alter-lab/) on using Systems Serology to identify immune mechanisms that result in these disparate clinical phenotypes in children could provide critical insights into COVID-19 pathogenesis, for example Multisystem Inflammatory Syndrome in Children (MIS-C).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+During my PhD, I worked with [Dr. Kwonmoo Lee](http://labs.wpi.edu/qci/announcement/) (now at Boston Children's Hospital) on developing deep learning and machine learning models for quantitative cellular imaging.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
