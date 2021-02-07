@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:chuangqi@mit.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ChuangqiW
@@ -77,4 +77,4 @@ I am a postdoc associate working in [Dr. Douglas A. Lauffenburger lab](https://b
 
 During my PhD, I worked with [Dr. Kwonmoo Lee](http://labs.wpi.edu/qci/announcement/) (now at Boston Children's Hospital) on developing deep learning models for quantitative cellular imaging.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
