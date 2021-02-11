@@ -73,11 +73,10 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoc associate working in [Dr. Douglas A. Lauffenburger lab](https://be.mit.edu/directory/douglas-a-lauffenburger) (2019 fall-Present) at MIT. My reserach interests lie in developing machine learning and deep learning methods to reveal hidden mechanisms in patient samples using systems biology and quantitative imaging. My current research projects are about applying computatinal methods in pathogen genome sequences to identify pathogenic features that could best predict the survival state of individuals with infectious diseases (such as tuberculosis, HIV and Ebola).
+I am a postdoc associate working in [Dr. Douglas A. Lauffenburger lab](https://be.mit.edu/directory/douglas-a-lauffenburger) (2019 fall-Present) at MIT. My research interests lie in developing machine learning and deep learning approches to reveal hidden immunological mechanisms in heterogeneous host-pathogen interaction by multi-omics and quantitative imaging. My recent research projects are computational method developments on pathogen genome sequences and cellular signaling to discover features that best predict survival states of individuals with infectious diseases (for example, tuberculosis, HIV and Ebola).
 
-I have been collaborating with [Dr. Galit Alter](https://www.ragoninstitute.org/portfolio-item/alter-lab/) (Ragon Institute of MGH, MIT and Harvard) on using Systems Serology to identify immune mechanisms that result in these disparate clinical phenotypes in children could provide critical insights into COVID-19 pathogenesis, for example Multisystem Inflammatory Syndrome in Children (MIS-C).
+I have been collaborating with [Dr. Galit Alter](https://www.ragoninstitute.org/portfolio-item/alter-lab/) (Ragon Institute of MGH, MIT and Harvard) on COVID-19 related projects including Multisystem Inflammatory Syndrome in Children (MIS-C), Common Human Coronaviruses cross-reactivity, and Convalescent Plasma (CCP). I focus on using system serology to identify humoral immune response that correlates with disparate clinical phenotypes, which could provide critical insights into COVID-19 pathogenesis and therapeutics.
 
-
-During my PhD, I worked with [Dr. Kwonmoo Lee](http://labs.wpi.edu/qci/announcement/) (now at Boston Children's Hospital) on developing deep learning and machine learning models for quantitative cellular imaging.
+During my PhD, I worked with [Dr. Kwonmoo Lee](http://labs.wpi.edu/qci/announcement/) (now at Boston Children's Hospital) on developing deep learning and machine learning models for quantitative cellular imaging in cytoskeleton dynamics. I dedicated on time-series data modeling to deconvolute subcellular protrusion heterogeneity and the underlying actin regulator dynamics from live cell imaging.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
