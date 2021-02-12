@@ -1,5 +1,5 @@
 ---
-title: "Bartsch, Y.C.*, Wang, C.*, et al, Nature Medicine. Humoral signatures of protective and pathological SARS-CoV2 infection in children (In press)"
+title: "Bartsch, Y.C.*, Wang, C.*, et al. Humoral signatures of protective and pathological SARS-CoV2 infection in children. Nature Medicine (In press)."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

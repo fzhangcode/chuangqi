@@ -3,7 +3,7 @@ title: Welcome to Chuangqi's webpage
 subtitle: Welcome 👋 
 
 # Summary for listings and search engines
-summary: Welcome 👋 Weto my first post
+summary: Welcome 👋 to my first post
 
 # Link this post with a project
 projects: []

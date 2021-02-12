@@ -1,5 +1,5 @@
 ---
-title: "Wang, C.*, Choi, H.J.*, et al, Nature Communication. HACKS (deconvolution of heterogeneous activity in coordination of cytoskeleton at the subcellular level)."
+title: "Wang, C.*, Choi, H.J.*, et al. HACKS (deconvolution of heterogeneous activity in coordination of cytoskeleton at the subcellular level), Nature Communication."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

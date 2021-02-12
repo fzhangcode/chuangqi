@@ -1,5 +1,5 @@
 ---
-title: "Kim, S.*, Wang, C.*, et al, Scientific Reports. Deep transfer learning for Lens-free digital in-line holography (LDIH) images in the context of cellular analyses."
+title: "Kim, S.*, Wang, C.*, et al. Deep transfer learning for Lens-free digital in-line holography (LDIH) images in the context of cellular analyses. Scientific Reports."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
