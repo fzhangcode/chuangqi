@@ -1,5 +1,5 @@
 ---
-title: "Bartsch, Y.C.*, Wang, C.*, et al. Humoral signatures of protective and pathological SARS-CoV2 infection in children. Nature Medicine (In press)."
+title: "Bartsch, Y.C.*, Wang, C.*, et al. Humoral signatures of protective and pathological SARS-CoV2 infection in children. Nature Medicine"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.nature.com/articles/s41591-021-01263-3'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'In press'
+  caption: 'Bartsch and Wang, et al'
   focal_point: ""
   preview_only: false
 
