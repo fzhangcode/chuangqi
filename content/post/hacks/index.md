@@ -1,18 +1,18 @@
 ---
-title: Welcome to Chuangqi's webpage
-subtitle: Welcome 👋 
+title: Software: HACKS (deconvolution of Heterogeneous Activity in Coordination of Kytoskeleton at the Subcellular level)
+subtitle: Deconvolution of subcellular protrusion heterogeneity  from live cell imaging
 
 # Summary for listings and search engines
-summary: Welcome 👋 to my first post
+summary: [Cite](https://www.nature.com/articles/s41467-018-04030-0)
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12073T00:00:00Z"
+date: "2018-12073T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12073T00:00:00Z"
+lastmod: "2018-12073T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -43,7 +43,6 @@ categories:
 
 ## Overview
 
-Welcome to my first post! I am a reseracher interested using advanced machine learning and deep learning to solve prolems in infectious diseases using system biology and immunology. I will record my publications and recent reserach projects here. In my spare time, I like outdoor activities with my family and friends!
 
 ##
 License
