@@ -3,7 +3,8 @@ title: Software HACKS (deconvolution of Heterogeneous Activity in Coordination o
 subtitle: Deconvolution of subcellular protrusion heterogeneity from live cell imaging
 
 # Summary for listings and search engines
-summary: [Cite](https://www.nature.com/articles/s41467-018-04030-0)
+summary:
+# [Cite](https://www.nature.com/articles/s41467-018-04030-0)
 
 # Link this post with a project
 projects: []

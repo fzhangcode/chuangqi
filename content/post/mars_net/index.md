@@ -3,7 +3,8 @@ title: Software MARS-Net (Multiple-microscopy- type-based Accurate and Robust Se
 subtitle: Deep learning-based segmentation pipeline for profiling cellular morphodynamics from multiple types of live cell microscopy
 
 # Summary for listings and search engines
-summary: [Cite](https://www.biorxiv.org/content/10.1101/191858v3)
+summary: 
+# [Cite](https://www.biorxiv.org/content/10.1101/191858v3)
 
 # Link this post with a project
 projects: []
